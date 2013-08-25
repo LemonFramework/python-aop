@@ -2,7 +2,7 @@ import unittest
 from aop import Aspect
 
 
-class TestAspectBase(unittest.TestCase):
+class TestAspect(unittest.TestCase):
     def test_call(self):
         def always_true():
             return True
