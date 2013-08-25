@@ -39,7 +39,7 @@ Examples
 If we want to log each invocation attempt we can apply the aspect directly to a function
 
 	>>> def auth(user, password):
-	...     if user is 'aop' and password is '#$%3&23%#$(%':
+	...     if user == 'aop' and password == '#$%3&23%#$(%':
 	...         return True
 	...     return False
 	... 
