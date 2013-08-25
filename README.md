@@ -1,7 +1,8 @@
 Python AOP Framework
 ====================
 
-Python AOP Framework is a minimal Framework for use Aspect-Oriented Programming
+Python AOP Framework is a minimal Framework to use Aspect-Oriented Programming
+on your Python applications
 
 Examples
 --------
